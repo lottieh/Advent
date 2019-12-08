@@ -109,3 +109,8 @@ console.log (total);
 
 
 
+var x= modules.map(Math.chain(i).divide(3).subtract(2))
+console.log(x)
+
+
+
